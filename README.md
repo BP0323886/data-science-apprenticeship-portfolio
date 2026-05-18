@@ -20,7 +20,7 @@ The Impact Evaluation component for the BPP summative assessment is not incldued
 
 ## Skills Demonstrated
 
-This portfolio is intended to evidence develiplemt across:
+This portfolio is intended to evidence development across:
 - Data infrastructure and tools
 - Data engineering
 - Data visualisation and dashboards
@@ -39,5 +39,5 @@ This portfolio is intended to evidence develiplemt across:
 ## Notes
 
   - This repository does not contain confidential organisational data.
-  - Publically available data sources only are used in portfolio projects.
+  - Publicly available data sources only are used in portfolio projects.
   - Future apprenticeship projects will be added to this repository over time.
