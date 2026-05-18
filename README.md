@@ -36,7 +36,7 @@ This portfolio is intended to evidence develiplemt across:
 - GitHub
 - Public UK data sources
 
-  ## Notes
+## Notes
 
   - This repository does not contain confidential organisational data.
   - Publically available data sources only are used in portfolio projects.
