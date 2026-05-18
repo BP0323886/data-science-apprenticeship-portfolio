@@ -10,7 +10,7 @@ The portfolio is designed to:
 
 ## Confidentiality Approach
 
-Where apprenticeship or workplace projects contain confidential, commerically sensitive, or restricted information, these materials are not uploaded to this public repository.
+Where apprenticeship or workplace projects contain confidential, commercially sensitive, or restricted information, these materials are not uploaded to this public repository.
 
 In such cases, public summaries or alternative public-domain projects may be used where appropriate for portfolio purposes.
 
