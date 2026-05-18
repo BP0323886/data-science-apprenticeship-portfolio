@@ -1,7 +1,9 @@
 # Data Science Portfolio
 
 **Programme:** BSc (Hons) Data Scientist
+
 **Module:** Data Science Professional Practice
+
 **Student Reference Number (SRN):** BP0323886
 
 ## Overview
