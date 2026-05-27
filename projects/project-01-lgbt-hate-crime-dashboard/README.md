@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dummyimage.com/1200x260/000000/ffffff&text=LGBT+Hate+Crime+Insights+Dashboard" alt="LGBT Hate Crime Insights Banner">
+  <img src="https://dummyimage.com/1200x260/b4a8e0/ffffff&text=LGBT+Hate+Crime+Insights+Dashboard" alt="LGBT Hate Crime Insights Banner">
 </p>
 
 # 🌈 Project 01: LGBT Hate Crime Insights
