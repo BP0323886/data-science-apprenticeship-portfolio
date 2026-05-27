@@ -37,7 +37,6 @@ Dashboard screenshots are available in the '/images/' folder.
 - Power BI
 - Power Query
 - DAX
-- Excel
 
 ## Notes
 
