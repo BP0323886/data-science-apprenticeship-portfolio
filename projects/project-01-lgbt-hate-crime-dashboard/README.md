@@ -60,6 +60,7 @@ The work highlights how exploratory analytics can support responsible discussion
 
 ### Model
 ![Model](images/model.png)
+The model follows a star schema design, with a dedicated analysis table to support correlation and scatter-based analysis.
 
 ## Tools Used
 
