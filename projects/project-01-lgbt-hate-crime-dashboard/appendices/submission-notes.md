@@ -1,4 +1,4 @@
-# Submission Notes
+# 🗒️ Submission Notes
 
 This public GitHub repository contains the Data Science Project component of the module portfolio using public, non-confidential data.
 
