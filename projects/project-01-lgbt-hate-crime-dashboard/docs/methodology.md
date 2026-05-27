@@ -1,7 +1,7 @@
-# Methodology
+# 🔧 Methodology
 The project followed a structured, end‑to‑end data science workflow designed to ensure analytical integrity, transparency, and responsible communication of sensitive data. The methodology combines reproducible data engineering, exploratory analytics, and contextual interpretation.
 
-## 1. Data Acquisition
+## 📥 1. Data Acquisition
 Publicly available datasets were sourced from:
 
 + Home Office — police‑recorded hate crime statistics (YE March 2015–2024)
@@ -10,7 +10,7 @@ Publicly available datasets were sourced from:
 
 All datasets were aligned to a Year Ending March calendar to ensure temporal consistency across sources.
 
-## 2. Data Engineering & Modelling
+## 🏗️ 2. Data Engineering & Modelling
 Data preparation and modelling were performed in Power BI, using:
 
 + Power Query for ingestion, cleaning, and harmonisation
@@ -30,7 +30,7 @@ Key engineering steps included:
 
 No imputation or interpolation was applied to preserve data integrity.
 
-## 3. Exploratory Data Analysis (EDA)
+## 🔎 3. Exploratory Data Analysis (EDA)
 The analytical approach was deliberately exploratory rather than predictive, reflecting the small number of annual observations.
 
 Techniques included:
@@ -41,7 +41,7 @@ Techniques included:
 
 All findings were framed as associational, not causal, due to the aggregated nature of the data and the risk of ecological fallacy.
 
-## 4. Dashboard Design & Visual Communication
+## 📊 4. Dashboard Design & Visual Communication
 The dashboard was structured into four narrative pages:
 
 + Hate Crime Overview — headline KPIs and long‑term trends
@@ -55,7 +55,7 @@ Design principles followed Storytelling with Data best practice:
 + Embedding explanatory text to prevent visuals being read in isolation
 + Prioritising accessibility, clarity, and responsible communication
 
-## 5. Ethics, Bias & Limitations
+## 🛡️ 5. Ethics, Bias & Limitations
 The project adhered to UK data ethics principles:
 
 + Use of public, aggregated data only
@@ -71,7 +71,7 @@ Key limitations include:
 
 These limitations were explicitly acknowledged in the dashboard and accompanying narrative.
 
-## 6. Interpretation & Decision Support
+## 🧠 6. Interpretation & Decision Support
 The final dashboard provides a structured framework for:
 
 + Understanding long‑term LGBT hate crime trends
