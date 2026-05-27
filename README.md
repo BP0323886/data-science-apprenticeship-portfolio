@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# 📁 Data Science Portfolio
 
 **Programme:** BSc (Hons) Data Scientist
 
@@ -6,30 +6,30 @@
 
 **Student Reference Number (SRN):** BP0323886
 
-## Overview
+## 🧭 Overview
 
 This repository is a public data science portfolio created to showcase apprenticeship project work developed using public datasets and non-confidential materials.
 
 It is designed as an evolving portfolio structure, allowing future projects to be added over time.
 
-## Portfolio Contents
+## 📂 Portfolio Contents
 
-### Public Portfolio Projects
-- [LGBT Hate Crime Insights Dashboard (England & Wales, YE March, 2015-2024)](./projects/project-01-lgbt-hate-crime-dashboard/README.md)
+### 🔓 Public Portfolio Projects
+- 🌈 [LGBT Hate Crime Insights Dashboard (England & Wales, YE March, 2015-2024)](./projects/project-01-lgbt-hate-crime-dashboard/README.md)
 
-### Confidential Academic Component
+### 🔒 Confidential Academic Component
 The Impact Evaluation component for the BPP Data Science Professional Practice summative assessment is not incldued in this public repository due to confidentiality and is submitted separately via Turnitin only.
 
-## Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 This portfolio is intended to evidence development across:
-- Data infrastructure and tools
-- Data engineering
-- Data visualisation and dashboards
-- Data analytics
-- Documentation and communication
+- 🏗️ Data infrastructure and tools
+- 🔧 Data engineering
+- 📊 Data visualisation and dashboards
+- 📈 Data analytics
+- 📝 Documentation and communication
 
-## Tools and Technologies
+## 🛠️ Tools and Technologies
 
 - Power BI
 - Power Query
@@ -37,7 +37,7 @@ This portfolio is intended to evidence development across:
 - GitHub
 - Public UK data sources
 
-## Notes
+## 🗒️ Notes
 
   - This repository does not contain confidential organisational data.
   - Publicly available data sources only are used in portfolio projects.
