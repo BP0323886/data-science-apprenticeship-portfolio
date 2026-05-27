@@ -1,15 +1,34 @@
-# AI Usage Declaration
+# 🤖 AI Usage Declaration
+AI tools were used in a limited, transparent, and fully declared support capacity during the development of this portfolio.
 
-AI tools were used in a limited and declared support capacity during the development of this portfolio.
+✅ Permitted Uses
+AI assistance was restricted to supportive tasks, including:
 
-Permitted uses included:
-- assignment planning and structure
-- refinement of written clarity
-- support with organisation of portfolio content
-- limited support in framing project documentation
+- 🧭 Assignment planning and structure
 
-AI was not used to replace critcal thinking or submit unreviewed generated content as original work.
+- ✏️ Refinement of written clarity
 
-All final written content was reviewed, adapted, and validated independently.
+- 🗂️ Support with organisation of portfolio content
 
-Relevant AI prompts and responses have been retained separately for assessment evidence purposes where required.
+- 🧾 Limited assistance in framing project documentation
+
+❌ What AI Was Not Used For
+AI was not used to:
+
+- replace critical thinking
+
+- generate unreviewed content submitted as original work
+
+- produce analytical conclusions or dashboard outputs
+
+🧑‍💻 Human Oversight
+All final written content was:
+
+- reviewed
+
+- adapted
+
+- validated independently by the author.
+
+📁 Evidence Retention
+Relevant AI prompts and responses have been retained separately for assessment evidence where required.
