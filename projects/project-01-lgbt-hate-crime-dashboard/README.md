@@ -28,9 +28,22 @@ This analysis is explicitly associational rather than causal.
 - ./docs/references.md
 - ./data/
 
-## Visual Outputs
+## Dashboard Overview
 
-Dashboard screenshots are available in the '/images/' folder.
+### Overview
+![Overview](images/overview.png)
+
+### Population Context
+![Population](images/population.png)
+
+### Political Context
+![Political](images/political.png)
+
+### Analytical Insights
+![Analytical](images/analytical.png)
+
+### Model
+![Model](images/model.png)
 
 ## Tools Used
 
