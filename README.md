@@ -15,7 +15,7 @@ It is designed as an evolving portfolio structure, allowing future projects to b
 ## Portfolio Contents
 
 ### Public Portfolio Projects
-- [Project 01 - LGBT Hate Crime Insights Dashboard (England & Wales, YE March, 2015-2024)](./projects/project-01-lgbt-hate-crime-dashboard/README.md)
+- [LGBT Hate Crime Insights Dashboard (England & Wales, YE March, 2015-2024)](./projects/project-01-lgbt-hate-crime-dashboard/README.md)
 
 ### Confidential Academic Component
 The Impact Evaluation component for the BPP summative assessment is not incldued in this public repository due to confidentiality and is submitted separately via Turnitin only.
