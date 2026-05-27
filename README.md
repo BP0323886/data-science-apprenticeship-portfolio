@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://dummyimage.com/1200x250/0a2540/ffffff&text=Data+Science+Portfolio" alt="Analytics Banner">
 </p>
+
 # 📁 Data Science Portfolio
 
 **Programme:** BSc (Hons) Data Scientist
