@@ -1,4 +1,4 @@
-### Methodology
+# Methodology
 The project followed a structured, end‑to‑end data science workflow designed to ensure analytical integrity, transparency, and responsible communication of sensitive data. The methodology combines reproducible data engineering, exploratory analytics, and contextual interpretation.
 
 ## 1. Data Acquisition
