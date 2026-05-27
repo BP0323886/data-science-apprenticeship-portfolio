@@ -18,7 +18,7 @@ It is designed as an evolving portfolio structure, allowing future projects to b
 - [LGBT Hate Crime Insights Dashboard (England & Wales, YE March, 2015-2024)](./projects/project-01-lgbt-hate-crime-dashboard/README.md)
 
 ### Confidential Academic Component
-The Impact Evaluation component for the BPP summative assessment is not incldued in this public repository due to confidentiality and is submitted separately via Turnitin only.
+The Impact Evaluation component for the BPP Data Science Professional Practice summative assessment is not incldued in this public repository due to confidentiality and is submitted separately via Turnitin only.
 
 ## Skills Demonstrated
 
@@ -34,7 +34,6 @@ This portfolio is intended to evidence development across:
 - Power BI
 - Power Query
 - DAX
-- Excel
 - GitHub
 - Public UK data sources
 
