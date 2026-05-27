@@ -1,6 +1,6 @@
-# Project 01: LGBT Hate Crime Insights
+# 🌈 Project 01: LGBT Hate Crime Insights
 
-## Project Summary
+## 📝 Project Summary
 
 This project develops an interactive analytical dashboard examining police-recorded LGBT hate crime trends in England and Wales between YE March 2015 and YE March 2024.
 
@@ -13,7 +13,7 @@ The purpose is to explore whether recorded LGBT hate crime trends exhibit tempor
 
 This analysis is explicitly associational rather than causal.
 
-## Why this matters
+## 🎯 Why this matters
 
 This project demonstrates how publicaly available data can be integrated to provide a more contextualised understanding of sensitive social trends.
 
@@ -21,14 +21,14 @@ By combining crime, demographic, and political datasets, the dashboard enables m
 
 The work highlights how exploratory analytics can support responsible discussion and evidence-based insight without overstating causality.
 
-## Key Insights
+## 🔍 Key Insights
 
 - LGBT hate crime increased through early 2020s before declining
 - LGB incidents drive overall trends; Trans incidents show greater volatility
 - Population-adjusted rates reveak sharper movement than counts alone
 - Lagged analysis suggests political context aligns differently with next-year changes
 
-## Key Features
+## ⚙️ Key Features
 
 - Interactive Power BI dashboard
 - Trend analysis across sexual orientation and transgender hate crime strands.
@@ -36,7 +36,7 @@ The work highlights how exploratory analytics can support responsible discussion
 - Political context integration
 - Transparent methodology and limitations
 
-## Project Structure
+## 📁 Project Structure
 
 - ./docs/project-summary.md
 - ./docs/methodology.md
@@ -44,31 +44,31 @@ The work highlights how exploratory analytics can support responsible discussion
 - ./data/
 - ./images/
 
-## Dashboard Overview
+## 📊 Dashboard Overview
 
-### Overview
+### 🧭 Overview
 ![Overview](images/overview.png)
 
-### Population Context
+### 👥 Population Context
 ![Population](images/population.png)
 
-### Political Context
+### 🗳️ Political Context
 ![Political](images/political.png)
 
-### Analytical Insights
+### 📈 Analytical Insights
 ![Analytical](images/analytical.png)
 
-### Model
+### 🧩 Model
 ![Model](images/model.png)
 The model follows a star schema design, with a dedicated analysis table to support correlation and scatter-based analysis.
 
-## Tools Used
+## 🛠️ Tools Used
 
 - Power BI
 - Power Query
 - DAX
 
-## Notes
+## 🗒️ Notes
 
 - All data used in this project is publicly available.
 - The analysis is exploratory and associational.
