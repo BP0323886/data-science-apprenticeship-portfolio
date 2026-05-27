@@ -26,7 +26,7 @@ This analysis is explicitly associational rather than causal.
 - ./docs/project-summary.md
 - ./docs/methodology.md
 - ./docs/references.md
-- ./data/source-links.md
+- ./data/
 
 ## Visual Outputs
 
