@@ -13,6 +13,14 @@ The purpose is to explore whether recorded LGBT hate crime trends exhibit tempor
 
 This analysis is explicitly associational rather than causal.
 
+## Why this matters
+
+This project demonstrates how publicaly available data can be integrated to provide a more contextualised understanding of sensitive social trends.
+
+By combining crime, demographic, and political datasets, the dashboard enables more informed intepretation of patterns that would not be visible through single-source analysis alone.
+
+The work highlights how exploratory analytics can support responsible discussion and evidence-based insight without overstating causality.
+
 ## Key Insights
 
 - LGBT hate crime increased through early 2020s before declining
