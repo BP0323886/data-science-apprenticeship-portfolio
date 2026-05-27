@@ -4,11 +4,9 @@ The project followed a structured, end‑to‑end data science workflow designed
 ## 1. Data Acquisition
 Publicly available datasets were sourced from:
 
-Home Office — police‑recorded hate crime statistics (YE March 2015–2024)
-
-ONS — mid‑year population estimates and sexual orientation survey data
-
-Electoral Commission & UK Parliament — national election and referendum results
++ Home Office — police‑recorded hate crime statistics (YE March 2015–2024)
++ ONS — mid‑year population estimates and sexual orientation survey data
++ Electoral Commission & UK Parliament — national election and referendum results
 
 All datasets were aligned to a Year Ending March calendar to ensure temporal consistency across sources.
 
