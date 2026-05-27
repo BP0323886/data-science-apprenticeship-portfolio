@@ -13,6 +13,13 @@ The purpose is to explore whether recorded LGBT hate crime trends exhibit tempor
 
 This analysis is explicitly associational rather than causal.
 
+## Key Insights
+
+- LGBT hate crime increased through early 2020s before declining
+- LGB incidents drive overall trends; Trans incidents show greater volatility
+- Population-adjusted rates reveak sharper movement than counts alone
+- Lagged analysis suggests political context aligns differently with next-year changes
+
 ## Key Features
 
 - Interactive Power BI dashboard
@@ -21,12 +28,13 @@ This analysis is explicitly associational rather than causal.
 - Political context integration
 - Transparent methodology and limitations
 
-## Project Files
+## Project Structure
 
 - ./docs/project-summary.md
 - ./docs/methodology.md
 - ./docs/references.md
 - ./data/
+- ./images/
 
 ## Dashboard Overview
 
