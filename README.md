@@ -4,7 +4,7 @@
 
 # 📁 Data Science Portfolio
 
-**Programme:** BSc (Hons) Data Scientist
+**Programme:** BSc (Hons) Data Scientist Level 6
 
 **Module:** Data Science Professional Practice
 
